@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>439222554464-11l9sn49tt37eup6s6q7tgfobj1prjgb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.439222554464-11l9sn49tt37eup6s6q7tgfobj1prjgb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCW42KBugUvZiART4Q8ZkjMsDPWDaleuqI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>439222554464</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>YasarBayindir.instaCloneApp</string>
+	<key>PROJECT_ID</key>
+	<string>instaclonefirebase-7c704</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instaclonefirebase-7c704.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:439222554464:ios:41dc000655806ee06f5805</string>
+	<key>DATABASE_URL</key>
+	<string>https://instaclonefirebase-7c704.firebaseio.com</string>
+</dict>
+</plist>
